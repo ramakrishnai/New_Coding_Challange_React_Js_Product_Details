@@ -1,0 +1,38 @@
+
+
+.product-list {
+  margin: 0 auto;
+  width: 80%;
+  font-family: Arial, sans-serif;
+}
+
+.add-product {
+  margin-bottom: 20px;
+}
+
+.add-product label {
+  margin-right: 10px;
+}
+
+.filter {
+  margin-bottom: 20px;
+}
+
+.product-items {
+  list-style-type: none;
+  padding: 0;
+}
+
+.special-item {
+  background-color: #ffffcc;
+}
+
+li {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-left: 10px;
+}
